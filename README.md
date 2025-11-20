@@ -99,7 +99,7 @@ MomentumLabs/
 1. **Clone or Download**
    ```bash
    # If using git
-   git clone [repository-url]
+   git clone https://github.com/soikot-shahriaar/MomentumLabs
    cd MomentumLabs
    
    # Or download and extract the ZIP file
